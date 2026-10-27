@@ -15,6 +15,11 @@ BRANE is our AI interaction firewall: a control layer between a company's employ
 - Website: [ai-z-group.com](https://ai-z-group.com)
 - Product overview: [ai-z-group.com/en/product](https://ai-z-group.com/en/product)
 
+## For the AI-Z team
+
+[AI-Z UI](https://github.com/AI-Z-Group/ai-z-ui) is the shared home for interface foundations, identity guidance
+and contribution through Git. Team access is required.
+
 ## Contact
 
 - General enquiries and demo requests: [info@ai-z-group.com](mailto:info@ai-z-group.com)
